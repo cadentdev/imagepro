@@ -10,7 +10,7 @@ readme = "PYPI_README.md"
 license = "MIT"
 requires-python = ">=3.8"
 authors = [
-    {name = "Neil Stoker"},
+    {name = "Neil Johnson"},
 ]
 keywords = ["image", "resize", "convert", "webp", "heic", "cli", "responsive", "batch"]
 classifiers = [
